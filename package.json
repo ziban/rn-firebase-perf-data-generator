@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ziban/rn-firebase-perf-data-generator#readme",
   "dependencies": {
     "faker": "^4.1.0",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "uuid": "^8.1.0"
   }
 }
